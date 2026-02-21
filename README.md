@@ -1,4 +1,4 @@
-# PenguardOps v2.1
+# PenGuardOps v2.1
 
 <p align="center">
   <img src="penguin.png" alt="Agent P - WhatsApp Privacy Shield" width="480"/>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Version 2.1</b> · Created by <b>Agent P</b><br/>
-**Elite Penetration Testing Framework** — Professional web vulnerability scanner with real-time progress tracking, interactive module selection, and comprehensive security reporting.
+Penetration Testing Framework — Professional web vulnerability scanner with real-time progress tracking, interactive module selection, and comprehensive security reporting.
 </p>
 
 ```
@@ -17,6 +17,7 @@
 \/    \___|_| |_\____/ \__,_|\__,_|_|  \__,_\___/ | .__/|___/
                                                   |_|        
 ```
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
