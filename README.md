@@ -1,16 +1,21 @@
-# 🐧 PenguardOps v2.1
+# PenguardOps v2.1
 
+<p align="center">
+  <img src="penguin.png" alt="Agent P - WhatsApp Privacy Shield" width="480"/>
+</p>
+
+<p align="center">
+  <b>Version 2.1</b> · Created by <b>Agent P</b><br/>
 **Elite Penetration Testing Framework** — Professional web vulnerability scanner with real-time progress tracking, interactive module selection, and comprehensive security reporting.
+</p>
 
 ```
-
-   ___                                     _   ___           
-  / _ \___ _ __   __ _ _   _  __ _ _ __ __| | /___\_ __  ___ 
- / /_)/ _ \ '_ \ / _` | | | |/ _` | '__/ _` |//  // '_ \/ __|
-/ ___/  __/ | | | (_| | |_| | (_| | | | (_| / \_//| |_) \__ \
-\/    \___|_| |_|\__, |\__,_|\__,_|_|  \__,_\___/ | .__/|___/
-                 |___/                            |_|        
-             
+   ___             ___                     _   ___           
+  / _ \___ _ __   / _ \_   _  __ _ _ __ __| | /___\_ __  ___ 
+ / /_)/ _ \ '_ \ / /_\/ | | |/ _` | '__/ _` |//  // '_ \/ __|
+/ ___/  __/ | | / /_\\| |_| | (_| | | | (_| / \_//| |_) \__ \
+\/    \___|_| |_\____/ \__,_|\__,_|_|  \__,_\___/ | .__/|___/
+                                                  |_|        
 ```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
