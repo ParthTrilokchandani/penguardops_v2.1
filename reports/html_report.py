@@ -1,5 +1,5 @@
 """
-HTML Report Generator v5.0
+HTML Report Generator v2.0
 100% dynamic — every number, chart, finding, and colour is generated
 from the actual scan_meta + findings passed in at runtime.
 No hardcoded values anywhere in the output.
@@ -286,7 +286,7 @@ class HTMLReporter:
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>PenguardOps Report — {_e(target)}</title>
+<title>PenGuardOps Report — {_e(target)}</title>
 {self._css()}
 </head>
 <body>
@@ -298,7 +298,7 @@ class HTMLReporter:
     <div class="logo">
       <div class="logo-icon">🛡️</div>
       <div>
-        <div class="logo-t">PenguardOps</div>
+        <div class="logo-t">PenGuardOps</div>
         <div class="logo-s">Professional Penetration Testing Suite</div>
         <div class="badges">
           <span class="bdg bdg-b">OWASP Top 10</span>
@@ -437,7 +437,7 @@ class HTMLReporter:
   <div class="ftb">
     <div class="fticon">🛡️</div>
     <div>
-      <div class="ftn">PenguardOps v2.1</div>
+      <div class="ftn">PenGuardOps v2.1</div>
       <div class="ftc">Professional Penetration Testing Suite · {datetime.now().year}</div>
     </div>
   </div>
