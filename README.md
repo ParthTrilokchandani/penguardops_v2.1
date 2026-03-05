@@ -82,7 +82,7 @@ Penetration Testing Framework — Professional web vulnerability scanner with re
 
 ```bash
 # Clone the repository
-git clone https://github.com/ParthTrilokchndani/penguardops.git
+git clone https://github.com/ParthTrilokchandani/penguardops_v2.1.git
 cd penguardops
 
 # Install dependencies
