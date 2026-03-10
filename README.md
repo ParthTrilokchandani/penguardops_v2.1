@@ -325,7 +325,7 @@ pip install -r requirements.txt -r requirements-dev.txt  # If dev deps exist
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ParthTrilokchandani/penguardops_v2.1/blob/main/LICENSE) file for details.
 
 ---
 
@@ -340,8 +340,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/penguardops/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/penguardops/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ParthTrilokchandani/penguardops_v2.1/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ParthTrilokchandani/penguardops_v2.1/discussions/)
 
 ---
 
@@ -351,8 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Fixed progress tracker duplicate phases
 - ✅ Fixed progress bars exceeding 100%
 - ✅ Improved state management for concurrent operations
-- ✅ Shield icon restored in HTML reports
-- ✅ Enhanced hacker penguin CLI banner
 
 ### v2.0
 - ✨ Real-time multi-phase progress tracking
